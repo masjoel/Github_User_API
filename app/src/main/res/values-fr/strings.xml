@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Github User API</string>
+    <string name = "name_github_user"> Nom d\'utilisateur Github </string>
+    <string name = "name_github_name"> Nom Github </string>
+    <string name = "text_repo"> Référentiel </string>
+    <string name = "text_followers"> Abonnés </string>
+    <string name = "text_following"> Suivi </string>
+    <string name = "title_activity_detail_user"> Détails du profil </string>
+    <string name = "tab_text_1"> Abonnés </string>
+    <string name = "tab_text_2"> Suivi </string>
+    <string name = "action_home"> Accueil </string>
+    <string name = "text_number"> 0 </string>
+    <string name = "text_company"> Entreprise </string>
+    <string name = "text_location"> Emplacement </string>
+    <string name = "text_username"> Nom d\'utilisateur </string>
+    <string name = "text_name"> Nom </string>
+    <string name = "text_change_lang"> Paramètres de langue </string>
+    <string name="text_search_by">Rechercher par nom d\'utilisateur</string>
+
+
+</resources>

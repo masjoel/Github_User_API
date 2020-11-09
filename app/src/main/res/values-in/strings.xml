@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Github User API</string>
+    <string name="name_github_user">Username Github</string>
+    <string name="name_github_name">Nama Github </string>
+    <string name="text_repo">Repositori</string>
+    <string name="text_followers">Pengikut</string>
+    <string name="text_following">Mengikuti</string>
+    <string name="title_activity_detail_user">Detail Profil</string>
+    <string name="tab_text_1">Pengikut</string>
+    <string name="tab_text_2">Mengikuti</string>
+    <string name="action_home">Home</string>
+    <string name="text_number">0</string>
+    <string name="text_company">Perusahaan</string>
+    <string name="text_location">Lokasi</string>
+    <string name="text_username">Username</string>
+    <string name="text_name">Nama</string>
+    <string name="text_change_lang">Seting Bahasa</string>
+    <string name="text_search_by">Cari username</string>
+
+
+</resources>
